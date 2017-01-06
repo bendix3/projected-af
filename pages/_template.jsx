@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
-import '../css/markdown-styles'
 
 module.exports = React.createClass({
   propTypes () {
